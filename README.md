@@ -7,7 +7,7 @@ My background spans financial analysis, quantitative modeling, and system-orient
 
 Rather than showcasing isolated code snippets, this GitHub is organized to reflect how I think, design, and iterate on problems.
 
-# How to read this GitHub
+## How to read this GitHub
 
 My public repositories fall roughly into the following categories:
 
@@ -24,34 +24,32 @@ In addition to projects, I maintain repositories that provide useful datasets, n
 Not every repository is meant to be read end-to-end.
 For a focused review, I recommend starting with the selected projects below.
 
-# Selected repositories
+## Selected repositories
 
-The following repositories were intentionally curated and reflect work that I believe contains practical value or transferable insight:
+The following repositories were **intentionally curated** and reflect work that I believe contains practical value or transferable insight:
 
-- <repo-name-1>
+* **`<repo-name-1>`**
+  *Finance × Engineering focus*
+  → Highlights: problem decomposition, pipeline structure, and design trade-offs
 
-Finance × Engineering focus
-→ Highlights: problem decomposition, pipeline structure, and design trade-offs
+* **`<repo-name-2>`**
+  *Quantitative / research-oriented*
+  → Highlights: experiment organization, reproducibility, and interpretation logic
 
-- <repo-name-2>
-Quantitative / research-oriented
-→ Highlights: experiment organization, reproducibility, and interpretation logic
-
-- <repo-name-3>
-
-Data / reference contribution
-→ Highlights: clarity, reusability, and documentation quality
+* **`<repo-name-3>`**
+  *Data / reference contribution*
+  → Highlights: clarity, reusability, and documentation quality
 
 (Each repository contains its own README explaining scope and design decisions.)
 
-# Notes on completeness and scope
+## Notes on completeness and scope
 
 Some industry work is not publicly available due to NDA constraints.
 Where applicable, the design patterns and reasoning processes from those experiences are reflected in the public repositories above through abstracted or toy implementations.
 
 Older or exploratory repositories are kept public to preserve context, but they are not intended as representative samples of my current work.
 
-# Final note
+## Final note
 
 This GitHub is best viewed as a working archive, not a highlight reel.
 If you are reviewing this for an interview or collaboration, I appreciate you starting from this guide.
