@@ -28,15 +28,17 @@ For a focused review, I recommend starting with the selected projects below.
 
 The following repositories were intentionally curated and reflect work that I believe contains practical value or transferable insight:
 
-<repo-name-1>
+- <repo-name-1>
+
 Finance × Engineering focus
 → Highlights: problem decomposition, pipeline structure, and design trade-offs
 
-<repo-name-2>
+- <repo-name-2>
 Quantitative / research-oriented
 → Highlights: experiment organization, reproducibility, and interpretation logic
 
-<repo-name-3>
+- <repo-name-3>
+
 Data / reference contribution
 → Highlights: clarity, reusability, and documentation quality
 
