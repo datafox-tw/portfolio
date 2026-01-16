@@ -1,5 +1,6 @@
 # portfolio
 This repository serves as a guide to navigating my GitHub as an engineering portfolio.
+[this page is under construction and will be updated around Jan 2026.]
 
 Hello, my name is KO, YU-CHI(柯宥圻). I currently pursuing master degree at National Taiwan University. I major in Data science. I work at the intersection of Finance and Computer Science, with a focus on translating financial problems into structured, reproducible, and inspectable systems.
 
