@@ -32,7 +32,7 @@
 
 ---
 
-## 🧭 建議閱讀路線（時間有限版）
+## 🧭 建議閱讀路線
 
 如果只有幾分鐘：
 
@@ -41,6 +41,11 @@
 * **軟體工程 / 全端 →** Cloud Native → DBMS
 * **ML Engineer →** Data Analytics → AI Cup
 
+如果你有更多時間，歡迎來讀：
+[每一份Project的介紹與技能棧堆疊過程](https://github.com/datafox-tw/portfolio/blob/main/Projects_timeline.md)
+[我的履歷]()
+[我的自我介紹，讓你更認識我]()
+[我的成績單](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_transcript.pdf)
 ---
 
 ## 💡 我主要關注的方向
