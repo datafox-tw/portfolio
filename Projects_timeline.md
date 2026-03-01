@@ -39,7 +39,7 @@
 讓我熟悉 Python 以外的語言與底層控制能力，理解效能與系統行為的差異。
 透過遊戲機制實作，練習如何把抽象邏輯轉成即時互動系統。
 是我少數完整用 C++ 做的較大規模專案。
-📎 [https://github.com/datafox-tw/windowskill](https://github.com/datafox-tw/windowskill)
+📎 [https://github.com/datafox-tw/windowskill](https://github.com/datafox-tw/windowskill_windowOS)
 
 ### Python 資料分析與機器學習導論
 
@@ -254,7 +254,7 @@ Implemented a full sentiment classification system **before ChatGPT existed**, i
 
 🔖 `C++` `Game Development` `Rendering`
 Developed a survival game inspired by *Windowkill* using C++ and a custom rendering framework.
-📎 [https://github.com/datafox-tw/windowskill](https://github.com/datafox-tw/windowskill)
+📎 [https://github.com/datafox-tw/windowskill](https://github.com/datafox-tw/windowskill_windowOS)
 
 ### Data Analysis and Machine Learning with Python
 
