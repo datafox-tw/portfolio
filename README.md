@@ -22,9 +22,9 @@
 | 如果你正在找…                               | 建議閱讀的 repositories                                                                                                                                                                                                       | 你會看到的能力與內容                                                     |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
 | Finance × AI / Quant / FinTech        | [GLoVE](https://github.com/datafox-tw/GLoVE) <br> [robo_advisor](https://github.com/datafox-tw/robo_advisor) <br> [Meme_stock_analysis_and_prediction](https://github.com/datafox-tw/Meme_stock_analysis_and_prediction) | GARCH × 深度學習混合建模、模組化金融分析系統、另類資料與市場訊號研究                         |
-| LLM / RAG / NLP 系統開發                  | 深度學習 HW3 – RAG system <br> [IRTM_project](https://github.com/datafox-tw/IRTM_project) <br> Toxic Comment Detector（BERT & GPT 版本）                                                                                         | Retriever / reranker 微調、繁體中文 RAG 策略實驗、LLM 出現前後的完整 NLP pipeline |
+| LLM / RAG / NLP 系統開發                  | 深度學習 HW3 – RAG system <br> [IRTM_project](https://github.com/datafox-tw/IRTM_project) <br> [Toxic Comment Detector（BERT & GPT 版本）](https://github.com/datafox-tw/toxic_comment_detector)                                                                                         | Retriever / reranker 微調、繁體中文 RAG 策略實驗、LLM 出現前後的完整 NLP pipeline |
 | LLM 微調 / Transformer 訓練               | Instruction tuning（QLoRA） <br> Chinese Extractive QA（BERT）                                                                                                                                                               | 參數高效微調、span prediction 訓練流程、prompt 與推論策略設計                     |
-| Machine Learning / Deep Learning 基礎能力 | [data_analysis](https://github.com/datafox-tw/data_analysis) <br> AI Cup 3D 醫學影像                                                                                                                                         | End-to-end 建模流程、時間序列預測、論文復現與實驗設計能力                             |
+| Machine Learning / Deep Learning 基礎能力 | [data_analysis](https://github.com/datafox-tw/data_analysis) <br> [AI Cup 3D 醫學影像建模與預測](https://github.com/datafox-tw/valve_abnormality_examination)                                                                                                                                         | End-to-end 建模流程、時間序列預測、論文復現與實驗設計能力                             |
 | 系統整合 / 全端工程                           | [CloudNative_Stadium_System](https://github.com/datafox-tw/CloudNative_Stadium_System) <br> [Airlines_DBMS](https://github.com/datafox-tw/Airlines_DBMS)                                                                 | React + Express 架構、API 測試與壓力測試、資料庫 schema 與交易設計                |
 | 推薦系統 / 資料探勘                           | [BDA2023_final_apriori](https://github.com/datafox-tw/BDA2023_final_apriori)                                                                                                                                             | 關聯規則推薦系統與商業問題轉換能力                                              |
 | 產品導向的 AI 應用                           | [youtube_nlp_analysis](https://github.com/datafox-tw/youtube_nlp_analysis)                                                                                                                                               | 從使用者資料推導內容策略與商業洞察                                              |
@@ -42,10 +42,10 @@
 * **ML Engineer →** Data Analytics → AI Cup
 
 如果你有更多時間，歡迎來讀：
-[每一份Project的介紹與技能棧堆疊過程](https://github.com/datafox-tw/portfolio/blob/main/Projects_timeline.md)
-[我的履歷]()
-[我的自我介紹，讓你更認識我]()
-[我的成績單](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_transcript.pdf)
+- [每一份Project的介紹與技能棧堆疊過程](https://github.com/datafox-tw/portfolio/blob/main/Projects_timeline.md)
+- [我的履歷](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_resume_2026.pdf)
+- [我的自我介紹，讓你更認識我](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_Unofficial_CV.pdf)
+- [我的大學時期成績單](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_transcript.pdf)
 ---
 
 ## 💡 我主要關注的方向
@@ -143,9 +143,9 @@ This table helps you quickly find the most relevant repositories.
 | If you are looking for…                       | Recommended repositories                                                                                                                                                                                                 | What you will see                                                                                                    |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 | Finance × AI / Quant / FinTech                | [GLoVE](https://github.com/datafox-tw/GLoVE) <br> [robo_advisor](https://github.com/datafox-tw/robo_advisor) <br> [Meme_stock_analysis_and_prediction](https://github.com/datafox-tw/Meme_stock_analysis_and_prediction) | Hybrid modeling of GARCH × deep learning, modular financial analysis system, alternative data for market signals     |
-| LLM / RAG / NLP systems                       | Deep Learning HW3 – RAG system <br> [IRTM_project](https://github.com/datafox-tw/IRTM_project) <br> Toxic Comment Detector (BERT & GPT versions)                                                                         | Retriever & reranker fine-tuning, Traditional Chinese RAG strategy study, full NLP pipeline before and after LLM era |
+| LLM / RAG / NLP systems                       | Deep Learning HW3 – RAG system <br> [IRTM_project](https://github.com/datafox-tw/IRTM_project) <br> [Toxic Comment Detector (BERT & GPT versions)](https://github.com/datafox-tw/toxic_comment_detector)                                                                         | Retriever & reranker fine-tuning, Traditional Chinese RAG strategy study, full NLP pipeline before and after LLM era |
 | LLM fine-tuning / Transformer                 | Instruction tuning (QLoRA) <br> Chinese Extractive QA (BERT)                                                                                                                                                             | Parameter-efficient fine-tuning, span prediction training pipeline, prompt & inference strategy design               |
-| Machine Learning / Deep Learning fundamentals | [data_analysis](https://github.com/datafox-tw/data_analysis) <br> AI Cup 3D medical imaging                                                                                                                              | End-to-end modeling, time-series prediction, paper reproduction, experimental design                                 |
+| Machine Learning / Deep Learning fundamentals | [data_analysis](https://github.com/datafox-tw/data_analysis) <br> [AI Cup 3D medical imaging](https://github.com/datafox-tw/valve_abnormality_examination)                                                                                                                              | End-to-end modeling, time-series prediction, paper reproduction, experimental design                                 |
 | Full-stack / System integration               | [CloudNative_Stadium_System](https://github.com/datafox-tw/CloudNative_Stadium_System) <br> [Airlines_DBMS](https://github.com/datafox-tw/Airlines_DBMS)                                                                 | React + Express architecture, API testing & load testing, relational schema & transaction design                     |
 | Recommender / Data mining                     | [BDA2023_final_apriori](https://github.com/datafox-tw/BDA2023_final_apriori)                                                                                                                                             | Association-rule-based recommendation and business problem formulation                                               |
 | Product / Applied AI thinking                 | [youtube_nlp_analysis](https://github.com/datafox-tw/youtube_nlp_analysis)                                                                                                                                               | Turning user data into actionable content and business insights                                                      |
@@ -162,6 +162,11 @@ If you only have a few minutes:
 * **Software / Full-stack roles →** Cloud Native system → DBMS
 * **ML engineer roles →** Data Analytics → AI Cup
 
+If you have more time, you are welcome to read these：
+- [Each Project's Introduction and Skill Stack Building Process](https://github.com/datafox-tw/portfolio/blob/main/Projects_timeline.md)
+- [My resume](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_resume_2026.pdf)
+- [My unofficial CV(Chinese version only)](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_Unofficial_CV.pdf)
+- [My transcrip at NTU finance bachelor](https://github.com/datafox-tw/portfolio/blob/main/koyuchi_transcript.pdf)
 
 ## Where to start
 
