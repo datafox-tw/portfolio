@@ -15,9 +15,47 @@
 
 ---
 
+## 🔎 快速導覽（給不同背景的招募者）
+
+不同領域的招募者可以從下表快速找到最相關的專案與技術內容。
+
+| 如果你正在找…                               | 建議閱讀的 repositories                                                                                                                                                                                                       | 你會看到的能力與內容                                                     |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| Finance × AI / Quant / FinTech        | [GLoVE](https://github.com/datafox-tw/GLoVE) <br> [robo_advisor](https://github.com/datafox-tw/robo_advisor) <br> [Meme_stock_analysis_and_prediction](https://github.com/datafox-tw/Meme_stock_analysis_and_prediction) | GARCH × 深度學習混合建模、模組化金融分析系統、另類資料與市場訊號研究                         |
+| LLM / RAG / NLP 系統開發                  | 深度學習 HW3 – RAG system <br> [IRTM_project](https://github.com/datafox-tw/IRTM_project) <br> Toxic Comment Detector（BERT & GPT 版本）                                                                                         | Retriever / reranker 微調、繁體中文 RAG 策略實驗、LLM 出現前後的完整 NLP pipeline |
+| LLM 微調 / Transformer 訓練               | Instruction tuning（QLoRA） <br> Chinese Extractive QA（BERT）                                                                                                                                                               | 參數高效微調、span prediction 訓練流程、prompt 與推論策略設計                     |
+| Machine Learning / Deep Learning 基礎能力 | [data_analysis](https://github.com/datafox-tw/data_analysis) <br> AI Cup 3D 醫學影像                                                                                                                                         | End-to-end 建模流程、時間序列預測、論文復現與實驗設計能力                             |
+| 系統整合 / 全端工程                           | [CloudNative_Stadium_System](https://github.com/datafox-tw/CloudNative_Stadium_System) <br> [Airlines_DBMS](https://github.com/datafox-tw/Airlines_DBMS)                                                                 | React + Express 架構、API 測試與壓力測試、資料庫 schema 與交易設計                |
+| 推薦系統 / 資料探勘                           | [BDA2023_final_apriori](https://github.com/datafox-tw/BDA2023_final_apriori)                                                                                                                                             | 關聯規則推薦系統與商業問題轉換能力                                              |
+| 產品導向的 AI 應用                           | [youtube_nlp_analysis](https://github.com/datafox-tw/youtube_nlp_analysis)                                                                                                                                               | 從使用者資料推導內容策略與商業洞察                                              |
+| 程式設計基礎與系統思維起點                         | [PBC2021-final](https://github.com/datafox-tw/PBC2021-final) <br> [windowskill](https://github.com/datafox-tw/windowskill)                                                                                               | OOP 設計、互動式系統實作、C++ 與 Python 的實作差異                              |
+
+---
+
+## 🧭 建議閱讀路線（時間有限版）
+
+如果只有幾分鐘：
+
+* **GenAI / LLM 職缺 →** RAG system → IRTM → QLoRA
+* **Quant / FinTech 職缺 →** GLoVE → Robo-advisor
+* **軟體工程 / 全端 →** Cloud Native → DBMS
+* **ML Engineer →** Data Analytics → AI Cup
+
+---
+
+## 💡 我主要關注的方向
+
+我目前的核心主線是：
+
+* LLM / RAG 系統設計與最佳化
+* Finance × AI 的可驗證建模
+* 可落地的 Machine Learning 系統
+
+---
+
 ## 建議閱讀順序
 
-如果你是第一次來，建議從下列幾個專案開始。  
+如果你是第一次來，不確定要讀哪些專案，建議從下列幾個專案開始。  
 它們代表我在不同階段的思考方式與重構能力。
 
 ---
@@ -92,9 +130,37 @@ Reading this GitHub is closer to reading an engineering timeline than a collecti
 
 ---
 
+## 🔎 Quick Guide for Recruiters
+
+Different visitors may be interested in different aspects of my work.
+This table helps you quickly find the most relevant repositories.
+
+| If you are looking for…                       | Recommended repositories                                                                                                                                                                                                 | What you will see                                                                                                    |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Finance × AI / Quant / FinTech                | [GLoVE](https://github.com/datafox-tw/GLoVE) <br> [robo_advisor](https://github.com/datafox-tw/robo_advisor) <br> [Meme_stock_analysis_and_prediction](https://github.com/datafox-tw/Meme_stock_analysis_and_prediction) | Hybrid modeling of GARCH × deep learning, modular financial analysis system, alternative data for market signals     |
+| LLM / RAG / NLP systems                       | Deep Learning HW3 – RAG system <br> [IRTM_project](https://github.com/datafox-tw/IRTM_project) <br> Toxic Comment Detector (BERT & GPT versions)                                                                         | Retriever & reranker fine-tuning, Traditional Chinese RAG strategy study, full NLP pipeline before and after LLM era |
+| LLM fine-tuning / Transformer                 | Instruction tuning (QLoRA) <br> Chinese Extractive QA (BERT)                                                                                                                                                             | Parameter-efficient fine-tuning, span prediction training pipeline, prompt & inference strategy design               |
+| Machine Learning / Deep Learning fundamentals | [data_analysis](https://github.com/datafox-tw/data_analysis) <br> AI Cup 3D medical imaging                                                                                                                              | End-to-end modeling, time-series prediction, paper reproduction, experimental design                                 |
+| Full-stack / System integration               | [CloudNative_Stadium_System](https://github.com/datafox-tw/CloudNative_Stadium_System) <br> [Airlines_DBMS](https://github.com/datafox-tw/Airlines_DBMS)                                                                 | React + Express architecture, API testing & load testing, relational schema & transaction design                     |
+| Recommender / Data mining                     | [BDA2023_final_apriori](https://github.com/datafox-tw/BDA2023_final_apriori)                                                                                                                                             | Association-rule-based recommendation and business problem formulation                                               |
+| Product / Applied AI thinking                 | [youtube_nlp_analysis](https://github.com/datafox-tw/youtube_nlp_analysis)                                                                                                                                               | Turning user data into actionable content and business insights                                                      |
+| Programming foundations                       | [PBC2021-final](https://github.com/datafox-tw/PBC2021-final) <br> [windowskill](https://github.com/datafox-tw/windowskill)                                                                                               | Object-oriented design, interactive systems, C++ vs Python implementation mindset                                    |
+
+---
+
+## 🧭 Suggested Reading Paths
+
+If you only have a few minutes:
+
+* **LLM / GenAI roles →** RAG system → IRTM → QLoRA
+* **Quant / FinTech roles →** GLoVE → Robo-advisor
+* **Software / Full-stack roles →** Cloud Native system → DBMS
+* **ML engineer roles →** Data Analytics → AI Cup
+
+
 ## Where to start
 
-If this is your first time here, I recommend starting with the following projects.
+If this is your first time here, and not sure which one is better for you, I recommend starting with the following projects.
 
 They represent how my thinking and implementation have changed across different stages.
 
