@@ -163,6 +163,7 @@
 讓我深入理解 transformer 在 span prediction 任務中的運作方式。
 不只是使用 pipeline，而是閱讀並修改官方 training script。
 強化我對 HuggingFace 生態系的掌握。
+[Chinese Extractive QA（BERT）](https://github.com/datafox-tw/Chinese_Extractive_QA)
 🔖 `Transformer` `Question Answering`
 
 ### Instruction Tuning — 文言文 ↔ 白話文
@@ -344,6 +345,7 @@ Ranked **56 / 568 teams**.
 
 🔖 `Transformer` `Question Answering`
 Span prediction for Chinese QA tasks.
+[Chinese Extractive QA（BERT）](https://github.com/datafox-tw/Chinese_Extractive_QA)
 
 ### Instruction Tuning — Classical ↔ Vernacular Chinese Translation
 
